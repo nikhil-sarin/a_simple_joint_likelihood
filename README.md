@@ -1,2 +1,2 @@
 # a_simple_joint_likelihood
-Decided that a joint likelihood tutorial is needed.
+Decided to write a joint likelihood tutorial
